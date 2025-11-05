@@ -22,10 +22,7 @@ public class TimeFormat {
 
 		if (hours > 12) {
 			hours = hours - 12;
-		} else if (hours == 24) {
-			hours = 0;
 		}
-
 
 		System.out.println(hours);
 		System.out.println(":")
