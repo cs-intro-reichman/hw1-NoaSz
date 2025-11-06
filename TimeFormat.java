@@ -25,7 +25,7 @@ public class TimeFormat {
 		}
 
 		System.out.println(hours);
-		System.out.println(":")
+		System.out.println(":"); 
 		
 		if (minutes < 10) {
 			System.out.println("0");
