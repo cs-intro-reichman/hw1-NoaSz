@@ -24,14 +24,14 @@ public class TimeFormat {
 			hours = hours - 12;
 		}
 
-		System.out.println(hours);
-		System.out.println(":"); 
+		System.out.print(hours);
+		System.out.print(":"); 
 		
 		if (minutes < 10) {
-			System.out.println("0");
+			System.out.print("0");
 		}
-		System.out.println(minutes);
-		System.out.println(" ");
+		System.out.print(minutes);
+		System.out.print(" ");
 		System.out.println(suffix);
 		} 
 	}
