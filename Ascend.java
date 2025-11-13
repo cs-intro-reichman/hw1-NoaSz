@@ -1,3 +1,7 @@
+/* Feedback:
+ * very good! your code is clean, spaced out and easy to read.
+ */
+
 // Generates three integer random numbers in a given range,
 // and prints them in increasing order.
 public class Ascend {
